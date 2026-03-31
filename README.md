@@ -1,7 +1,8 @@
 # OSS Audit Project
 
 ## Student Details
-Name: Sannidhi Agrawal  
+Name: Sannidhi Agrawal 
+Registration number: 24BCE10645
 Course: Open Source Software  
 
 ---
@@ -42,9 +43,12 @@ Generates a personalized manifesto using user input.
 3. Run the following commands:
 
 ```bash
-chmod +x script.sh
-./script.sh
+chmod +x script1.sh
+./script1.sh
 
 ## Requirements
 - Git Bash / Linux environment  
-- Basic command-line knowledge  
+- Basic command-line knowledge
+
+## Note
+All scripts were tested using Git Bash on Windows. 
